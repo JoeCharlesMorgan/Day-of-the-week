@@ -12,7 +12,11 @@ public class daysOfTheWeek
 						 "Thursday", 
 						 "Friday",
 						 "Saturday"};
+<<<<<<< HEAD
 		//init counter to 1
+=======
+		//init counter to 1;
+>>>>>>> origin/Patch-6
 		int x = 1;
 		
 		//run for loop to print days of the week
