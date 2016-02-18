@@ -12,7 +12,7 @@ public class daysOfTheWeek
 						 "Thursday", 
 						 "Friday",
 						 "Saturday"};
-		
+		//init counter to 1
 		int x = 1;
 		
 		//run for loop to print days of the week
