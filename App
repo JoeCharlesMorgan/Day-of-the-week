@@ -14,6 +14,7 @@ public class daysOfTheWeek
 						 "Saturday"};
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		//init counter to 1
 =======
 		//init counter to 1;
@@ -21,6 +22,10 @@ public class daysOfTheWeek
 =======
 		//init counter;
 >>>>>>> refs/remotes/origin/Patch-5
+=======
+
+		//init counter to 1
+>>>>>>> origin/Patch-6
 		int x = 1;
 		
 		//run for loop to print days of the week
