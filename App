@@ -4,6 +4,7 @@ public class daysOfTheWeek
 
 	public static void main(String[] args)
 	{
+		//build array of days of the week
 		String days[] = {"Sunday", 
 						 "Monday",
 						 "Tuesday",
@@ -14,6 +15,7 @@ public class daysOfTheWeek
 		
 		int x = 1;
 		
+		//run for loop to print days of the week
 		for(int i=0; i<days.length; i++)
 		{
 			System.out.println("The day for the week for " + days[i] + " is " + x + ".");
