@@ -19,6 +19,7 @@ public class daysOfTheWeek
 		for(int i=0; i<days.length; i++)
 		{
 			System.out.println("The day for the week for " + days[i] + " is " + x + ".");
+			//incremment counter
 			x++;
 		}
 	}
